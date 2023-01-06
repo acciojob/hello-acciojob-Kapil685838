@@ -1,8 +1,4 @@
 /* Your CSS Code here. */
-* {
-	margin = 0;
-	padding = 0;
-}
 .Accio {
 	width = 150px;
 	height = 150px;
@@ -10,6 +6,7 @@
 }
 
 .hello-accio-job {
+	color = white;
 	margin-left = 32px;
 	padding = 10px;
 }
